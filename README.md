@@ -14,6 +14,7 @@ Gosto de identificar um problema, propor uma solução e ver essa solução func
 
 | Projeto | O que é | Link |
 |---|---|---|
+| Monitor de vagas | Automação no n8n que busca estágios na Gupy, faz a triagem com IA (LLM) e envia por e-mail só as vagas compatíveis | [repositório](https://github.com/BielCarioca03/monitor-vagas) |
 | Ferramentas de estudo | 8 páginas interativas de Controle e Eletromagnetismo construídas com IA | [site](https://bielcarioca03.github.io/#estudo) |
 | Não Pode! | Jogo de festa construído com IA, com versão multiplayer online via Firebase | [site](https://bielcarioca03.github.io/#projetos) |
 | Prompts de Engenharia | Biblioteca de prompts estruturados que uso em estudo, documentação técnica e firmware | [repositório](https://github.com/BielCarioca03/prompts-engenharia) |
@@ -24,4 +25,4 @@ Gosto de identificar um problema, propor uma solução e ver essa solução func
 - **Embarcados e programação:** C/C++, STM32CubeIDE, Git/GitHub, Flutter/Dart (aprendendo)
 - **Engenharia:** MATLAB/Octave, LTspice, EasyPower, DIALux
 - **Dados e documentação:** Power BI, Excel, LaTeX/Overleaf, Doxygen
-- **IA:** Claude, ChatGPT, Gemini (prompt engineering)
+- **IA e automação:** Claude, ChatGPT, Gemini (prompt engineering), n8n, API da OpenAI
